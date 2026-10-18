@@ -14,7 +14,13 @@ Na página há três botões:
 
 ## Como executar localmente
 
-Para executá-lo localmente, é necessário criar um ambiente virtual em sua máquina.
+Na pasta do projeto, com as dependências instaladas, execute:
+
+```
+streamlit run app.py
+```
+
+Abra http://localhost:10000 no navegador.
 
 ## Dependências
 
