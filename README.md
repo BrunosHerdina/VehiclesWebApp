@@ -14,16 +14,7 @@ Na página há três botões:
 
 ## Como executar localmente
 
-Na pasta do projeto:
-
-```powershell
-python -m venv .venv
-.\.venv\Scripts\Activate.ps1
-pip install -r requirement.txt
-streamlit run app.py
-```
-
-A aplicação abre em `http://localhost:10000`.
+Para executá-lo localmente, é necessário criar um ambiente virtual em sua máquina.
 
 ## Dependências
 
