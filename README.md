@@ -12,6 +12,10 @@ Na página há três botões:
 - **Criar dispersão** — ano do modelo em relação à quilometragem
 - **Criar barras** — quantidade de veículos por tipo e condição
 
+## Acesse o app em Render
+
+Basta acessar https://vehicleswebapp.onrender.com/
+
 ## Como executar localmente
 
 Na pasta do projeto, com as dependências instaladas, execute:
